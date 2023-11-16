@@ -5,7 +5,7 @@ coverY: 0
 
 # 👩💻 Development
 
-The development phase consists of the early stages of algorithmic development \[needs edit]. Whereas moral reflection should take place throughout the entire algorithmic pipeline, it is particularly important that researchers, practitioners, and developers reflect early on about the consequences of the algorithm or technology that is intended to be developed. Organizations may facilitate such reflection by hosting an event following the instructions below, which are inspired by the Consequence Scanning. Such event should be inclusive and representative of the organization. The event should be designed according to the structure and needs of the team working on the development. Upon completion of the event, main findings should be reported and strategies should be developed to assign responsibilities.
+The development phase consists of the early stages of project ideation. Whereas moral reflection should take place throughout the entire algorithmic pipeline, it is particularly important that researchers, practitioners, and developers reflect early on about the consequences of the algorithm or technology that is intended to be developed. Organizations may facilitate such reflection by hosting an event following the instructions below, which are inspired by the Consequence Scanning. Such event should be inclusive and representative of the organization. The event should be designed according to the structure and needs of the team working on the development. Upon completion of the event, main findings should be reported and strategies should be developed to assign responsibilities.
 
 
 
