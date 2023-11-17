@@ -24,3 +24,4 @@ coverY: 0
 * DotEveryone. (n.d.). The DotEveryone Consequence Scanning Agile Event. Retrieved from [https://doteveryone.org.uk/project/consequence-scanning/](https://doteveryone.org.uk/project/consequence-scanning/)
 * Van de Poel, I. (2016). An ethical framework for evaluating experimental technology. Science and engineering ethics, 22(3), 667-686.
 * Jobin, A., Ienca, M., & Vayena, E. (2019). The global landscape of AI ethics guidelines. Nature machine intelligence, 1(9), 389-399.
+* Tabassi, E. (2023). Artificial intelligence risk management framework (AI RMF 1.0) (NIST AI 100-1). National Institute of Standards and Technology. Retrived from [https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf)&#x20;
