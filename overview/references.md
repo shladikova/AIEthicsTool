@@ -14,6 +14,7 @@ coverY: 0
   Development, 63(4/5), 6-1.
 * Franzke, A. S., Muis, I., & Schäfer, M. T. (2021). Data Ethics Decision Aid (DEDA): a dialogical framework  \
   for ethical inquiry of AI and data projects in the Netherlands. Ethics and Information Technology, 1-17.
+* Hesketh, P. EthicsKit. (2022). Ethics cards.&#x20;
 * Arnold, M., Bellamy, R. K., Hind, M., Houde, S., Mehta, S., Mojsilović, A., ... & Varshney, K. R. (2019). FactSheets:\
   Increasing trust in AI services through supplier's declarations of conformity. IBM Journal of Research and\
   Development, 63(4/5), 6-1.
