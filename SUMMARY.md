@@ -12,8 +12,8 @@
 * [🚦 Deployment](overview/deployment.md)
 * [📈 Monitoring](overview/monitoring.md)
 * [✨ Fostering Ethics and Virtues](overview/fostering-ethics-and-virtues.md)
-* [📚 References](overview/references.md)
 
 ## Additional Resources
 
 * [📖 AI Ethics Principles](additional-resources/ai-ethics-principles.md)
+* [📚 References](additional-resources/references.md)

@@ -56,6 +56,6 @@ If you like this tool and find it valuable, please join our [Public Discord!](ht
 [fostering-ethics-and-virtues.md](overview/fostering-ethics-and-virtues.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/references.md" %}
-[references.md](overview/references.md)
+{% content-ref url="additional-resources/references.md" %}
+[references.md](additional-resources/references.md)
 {% endcontent-ref %}

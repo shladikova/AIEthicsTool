@@ -2,6 +2,20 @@
 cover: >-
   https://images.unsplash.com/photo-1598618589929-b1433d05cfc6?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxyZWZlcmVuY2VzfGVufDB8fHx8MTcwMDAxNTAzOXww&ixlib=rb-4.0.3&q=85
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 📚 References
