@@ -26,7 +26,7 @@ layout:
 
 ***
 
-<mark style="color:blue;">**Autonomy**</mark> relates to protecting and guaranteeing the autonomous choice of individuals and groups \cite{van2016ethical}. In the context of AI, there is a risk that increasing automation may undermine human autonomy.
+<mark style="color:blue;">**Autonomy**</mark> relates to protecting and guaranteeing the autonomous choice of individuals and groups. In the context of AI, there is a risk that increasing automation may undermine human autonomy.
 
 ***
 
