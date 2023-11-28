@@ -13,11 +13,11 @@
 * [📈 Monitoring](overview/monitoring.md)
 * [✨ Fostering Ethics and Virtues](overview/fostering-ethics-and-virtues.md)
 
+## 🗂 Sector-Specific Considerations
+
+* [🚗 Autonomous Driving Industry](sector-specific-considerations/autonomous-driving-industry.md)
+
 ## Additional Resources
 
 * [📖 AI Ethics Principles](additional-resources/ai-ethics-principles.md)
 * [📚 References](additional-resources/references.md)
-
-## Sector-Specific Considerations
-
-* [🚗 Autonomous Driving Industry](sector-specific-considerations/autonomous-driving-industry.md)
