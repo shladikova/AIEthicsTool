@@ -20,3 +20,47 @@ layout:
 
 # 🚗 Autonomous Driving Industry
 
+## Privacy
+
+## Accountability, Responsibility, Liability
+
+## Fairness, Non-Discrimination, Justice
+
+## Transparency
+
+## Safety and Cybersecurity
+
+## Common good and Sustainability
+
+## Explainability and Interpretability
+
+## Human Oversight, Control, Auditing
+
+## Dual use problem and military
+
+## Solidarity, Inclusion, Social Cohesion
+
+## Science-Policy link
+
+## Diversity
+
+## Future of Employment
+
+## Public Awareness and Education about AVs and its Risks
+
+## Human Autonomy
+
+## Protection of whistleblowers
+
+## Hidden costs
+
+## Legislative framework, legal status of AI systems
+
+## Responsible/intensified research funding
+
+## Certification for AI products
+
+## Cultural differences in the ethically aligned design of AI Systems
+
+
+
