@@ -20,7 +20,7 @@ If you like this tool and find it valuable, please join our [Public Discord!](ht
 
 ## Overview
 
-> The AI Ethics Tool aims to provide practical normative guidance for researchers, practitioners, and developers working with AI algorithms. This tool conceptualizes algorithmic development in six phases (Development, Design, Training, Building, Testing, Deployment, Monitoring). In each phase, different resources rooted in core AI Ethics Principles ([Beneficence](additional-resources/ai-ethics-principles.md), [Non-Maleficence](additional-resources/ai-ethics-principles.md), [Justice](additional-resources/ai-ethics-principles.md), [Autonomy](additional-resources/ai-ethics-principles.md), and [Explainability](additional-resources/ai-ethics-principles.md)) are made available to foster ethical reflection about AI.
+> The AI Ethics Tool aims to provide practical normative guidance for researchers, practitioners, and developers working with AI algorithms. This tool conceptualizes algorithmic development in six phases (Development, Design, Training, Building, Testing, Deployment, Monitoring). In each phase, different resources rooted in core AI Ethics Principles ([Beneficence](additional-resources/ai-ethics-principles.md#beneficence), [Non-Maleficence](additional-resources/ai-ethics-principles.md#non-maleficence), [Justice](additional-resources/ai-ethics-principles.md#justice), [Autonomy](additional-resources/ai-ethics-principles.md#autonomy), and [Explainability](additional-resources/ai-ethics-principles.md#explainability)) are made available to foster ethical reflection about AI.
 
 ## Quick links
 
