@@ -2,6 +2,20 @@
 cover: >-
   https://images.unsplash.com/photo-1516880711640-ef7db81be3e1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxidWlsZHxlbnwwfHx8fDE3MDAwMTI4NDd8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🔧 Building

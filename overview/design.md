@@ -2,6 +2,20 @@
 cover: >-
   https://images.unsplash.com/photo-1591871987673-f1513e38493b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxjcmVhdGl2ZXxlbnwwfHx8fDE3MDAwMTIwMTR8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🎨 Design
@@ -66,7 +80,7 @@ This design phase consists of defining the technical details of the algorithm. I
 
 ### Track your Progress
 
-{% hint style="info" %}
+{% hint style="success" %}
 Enter your email address below and submit to receive your responses to your email address.&#x20;
 {% endhint %}
 

@@ -10,4 +10,4 @@ In the Monitoring phase, performance of the system is assessed. The action sorti
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h4>Maintaining Functionality Of the Code</h4></td></tr><tr><td><h4>Review Feedback From the Engaged Communities</h4></td></tr><tr><td><h4>Proactively Work On Assessing Security Of the System</h4></td></tr><tr><td><h4>Review Consequence Scanning Log(output/notes) and Reflect</h4></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h4><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> Maintain Functionality Of the Code</h4></td></tr><tr><td><h4><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> Review Feedback From the Engaged Communities</h4></td></tr><tr><td><h4><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> Proactively Work On Assessing Security Of the System</h4></td></tr><tr><td><h4><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> Review Consequence Scanning Log(output/notes) and Reflect</h4></td></tr></tbody></table>
