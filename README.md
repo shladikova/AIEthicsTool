@@ -56,6 +56,6 @@ If you like this tool and find it valuable, please join our [Public Discord!](ht
 [fostering-ethics-and-virtues.md](overview/fostering-ethics-and-virtues.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="additional-resources/ai-ethics-principles.md" %}
+[ai-ethics-principles.md](additional-resources/ai-ethics-principles.md)
 {% endcontent-ref %}

@@ -13,7 +13,7 @@
 * [📈 Monitoring](overview/monitoring.md)
 * [✨ Fostering Ethics and Virtues](overview/fostering-ethics-and-virtues.md)
 
-## 🗂 Sector-Specific Considerations
+## Sector-Specific Considerations
 
 * [🚗 Autonomous Driving Industry](sector-specific-considerations/autonomous-driving-industry.md)
 
