@@ -4,18 +4,18 @@
 
 ## General
 
-* [👩💻 Development](general/development.md)
-* [🎨 Design](general/design.md)
-* [🏋♀ Training](general/training.md)
-* [🔧 Building](general/building.md)
-* [📊 Testing](general/testing.md)
-* [🚦 Deployment](general/deployment.md)
-* [📈 Monitoring](general/monitoring.md)
-* [✨ Fostering Ethics and Virtues](general/fostering-ethics-and-virtues.md)
+* [👩💻 Development](overview/development.md)
+* [🎨 Design](overview/design.md)
+* [🏋♀ Training](overview/training.md)
+* [🔧 Building](overview/building.md)
+* [📊 Testing](overview/testing.md)
+* [🚦 Deployment](overview/deployment.md)
+* [📈 Monitoring](overview/monitoring.md)
+* [✨ Fostering Ethics and Virtues](overview/fostering-ethics-and-virtues.md)
 
 ## Sector-Specific&#x20;
 
-* [🚗 Autonomous Driving Industry](sector-specific/autonomous-driving-industry.md)
+* [🚗 Autonomous Driving Industry](sector-specific-considerations/autonomous-driving-industry.md)
 
 ## Additional Resources
 
