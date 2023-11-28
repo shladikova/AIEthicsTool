@@ -1,8 +1,8 @@
 ---
 description: >-
   The AI Tool is designed to be technology-agnostic. Following sector-specific
-  considerations should be considered an additional, secondary resource for
-  practitioners in the AV industry.
+  considerations may serve as a secondary resource for practitioners in the AV
+  industry.
 cover: >-
   https://images.unsplash.com/photo-1628573413574-2b35620de9d7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxhdXRvbm9tb3VzJTIwY2Fyc3xlbnwwfHx8fDE3MDEyMDI0NDR8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
