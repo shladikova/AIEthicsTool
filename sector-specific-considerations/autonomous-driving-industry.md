@@ -26,11 +26,11 @@ layout:
 
 ## Privacy
 
-Autonomous Vehicles (AVs) rely heavily on data to operate its various functions (planning, learning, etc), which makes these systems vulnerable to [<mark style="color:blue;">privacy</mark>](#user-content-fn-1)[^1] breaches thus risking exposure of personal information.
+[<mark style="color:blue;">Autonomous Vehicles (AVs)</mark>](#user-content-fn-1)[^1] rely heavily on data to operate its various functions (planning, learning, etc), which makes these systems vulnerable to [<mark style="color:blue;">privacy</mark>](#user-content-fn-2)[^2] breaches thus risking exposure of personal information.
 
 ## Accountability, Responsibility, Liability
 
-[<mark style="color:blue;">Accountability</mark>](#user-content-fn-2)[^2], [<mark style="color:blue;">responsibility</mark>](#user-content-fn-3)[^3] and [<mark style="color:blue;">liability</mark>](#user-content-fn-4)[^4] issues are particularly challenging in the AV context because of the fragmentation of the technology action among many agents (many-hands problem) which hinders traceability.
+[<mark style="color:blue;">Accountability</mark>](#user-content-fn-3)[^3], [<mark style="color:blue;">responsibility</mark>](#user-content-fn-4)[^4] and [<mark style="color:blue;">liability</mark>](#user-content-fn-5)[^5] issues are particularly challenging in the AV context because of the fragmentation of the technology action among many agents (many-hands problem) which hinders traceability.
 
 ## Fairness, Non-Discrimination, Justice
 
@@ -38,11 +38,11 @@ Fairness, non-discrimination, and justice relate to reasonableness and impartial
 
 ## Transparency
 
-[<mark style="color:blue;">Algorithmic transparency</mark>](#user-content-fn-5)[^5] is exceptionally relevant in the AV domain and it can be either prospective (upfront disclosure of the algorithmic processes of a system) or retrospective (description of the system's operation and actions in a particular case). Whereas AI-based algorithms are often developed as a black-box, transparency is an essential tool for securing accountability, predictability, and eventually societal trust in AVs.
+[<mark style="color:blue;">Algorithmic transparency</mark>](#user-content-fn-6)[^6] is exceptionally relevant in the AV domain and it can be either prospective (upfront disclosure of the algorithmic processes of a system) or retrospective (description of the system's operation and actions in a particular case). Whereas AI-based algorithms are often developed as a black-box, transparency is an essential tool for securing accountability, predictability, and eventually societal trust in AVs.
 
 ## Safety and Cybersecurity
 
-[<mark style="color:blue;">Safety</mark>](#user-content-fn-6)[^6] and computer [<mark style="color:blue;">security</mark>](#user-content-fn-7)[^7] (cybersecurity) are technological risks that pose ethical concerns for AVs. There are unsettled considerations about acceptable safety and cybersecurity levels of AVs, both in mundane and in extreme situations, in order to secure the well-being of users and other traffic agents.
+[<mark style="color:blue;">Safety</mark>](#user-content-fn-7)[^7] and computer [<mark style="color:blue;">security</mark>](#user-content-fn-8)[^8] (cybersecurity) are technological risks that pose ethical concerns for AVs. There are unsettled considerations about acceptable safety and cybersecurity levels of AVs, both in mundane and in extreme situations, in order to secure the well-being of users and other traffic agents.
 
 {% hint style="info" %}
 ### Mundane traffic situations
@@ -62,13 +62,13 @@ AV technology is associated with electrification and ride-sharing which are cons
 
 ## Explainability and Interpretability
 
-Explainable models provide[ <mark style="color:blue;">interpretable</mark>](#user-content-fn-8)[^8] and [<mark style="color:blue;">complete</mark>](#user-content-fn-9)[^9] information about their decision processes. AVs operating in traffic will need to be explained for legal or financial reasons and there are concerns about the degree to which it is acceptable to simplify the description of the systems in order to increase public trust, yet risking the concealing of undesirable attributes of the system.&#x20;
+Explainable models provide[ <mark style="color:blue;">interpretable</mark>](#user-content-fn-9)[^9] and [<mark style="color:blue;">complete</mark>](#user-content-fn-10)[^10] information about their decision processes. AVs operating in traffic will need to be explained for legal or financial reasons and there are concerns about the degree to which it is acceptable to simplify the description of the systems in order to increase public trust, yet risking the concealing of undesirable attributes of the system.&#x20;
 
 ## Human Oversight, Control, Auditing
 
 Human oversight, control, and auditing of autonomous systems implies the surveillance of the development and running of a technology. Remote human oversight and control of AVs is essential for safety and trust in these systems. However, there are privacy concerns associated with the human oversight of the AV in mundane activities, and it is also not clear which decision should prevail in the context of a takeover i.e. the decision made by AV or the decision made by human controller.&#x20;
 
-Moreover, there are also concerns about the [<mark style="color:blue;">situation awareness</mark>](#user-content-fn-10)[^10] of human operators.&#x20;
+Moreover, there are also concerns about the [<mark style="color:blue;">situation awareness</mark>](#user-content-fn-11)[^11] of human operators.&#x20;
 
 ## Dual use problem and military
 
@@ -84,7 +84,7 @@ AV technology has been heralded both as a solution for driver shortage and as a 
 
 ## Human Autonomy
 
-In the AV context human [<mark style="color:blue;">autonomy</mark>](#user-content-fn-11)[^11] is associated with the level of influence that humans have in the driving task. Whereas the importance of providing functions that allow drivers to recover control of the vehicle is acknowledged, high levels of automation and remote human oversight of the systems have the potential to undermine the value of human autonomy.&#x20;
+In the AV context human [<mark style="color:blue;">autonomy</mark>](#user-content-fn-12)[^12] is associated with the level of influence that humans have in the driving task. Whereas the importance of providing functions that allow drivers to recover control of the vehicle is acknowledged, high levels of automation and remote human oversight of the systems have the potential to undermine the value of human autonomy.&#x20;
 
 ## Legislative framework, legal status of AI systems
 
@@ -98,24 +98,26 @@ Cultural values and priorities can differ across developers, regulators, ethicis
 
 
 
-[^1]: Modern accounts of privacy focus on the control over the inner spheres of personal information from the scrutiny of the public.
+[^1]: The vehicle designed to provide conveyance on public streets, roads, and highways with conditional, high, or full driving automation.
 
-[^2]: Accountability entails responsibility but unlike the latter it requires explanations about actions and it cannot be shared.&#x20;
+[^2]: Modern accounts of privacy focus on the control over the inner spheres of personal information from the scrutiny of the public.
 
-[^3]: Responsibility for an action requires traditionally at least a control condition, i.e. an agent is responsible if it is the agent of the action, and an epistemic condition, i.e. awareness or knowledge of the agent regarding the action.&#x20;
+[^3]: Accountability entails responsibility but unlike the latter it requires explanations about actions and it cannot be shared.&#x20;
 
-[^4]: Liability is legal or financial responsibility.
+[^4]: Responsibility for an action requires traditionally at least a control condition, i.e. an agent is responsible if it is the agent of the action, and an epistemic condition, i.e. awareness or knowledge of the agent regarding the action.&#x20;
 
-[^5]: i.e. openness about the inputs of decisions made by an algorithmic system
+[^5]: Liability is legal or financial responsibility.
 
-[^6]: Safety focuses on the adequate functioning of a system.
+[^6]: i.e. openness about the inputs of decisions made by an algorithmic system
 
-[^7]: Security is the ability of a system to resist intentionally malicious actions.
+[^7]: Safety focuses on the adequate functioning of a system.
 
-[^8]: description of a system in a way that can be understood by humans
+[^8]: Security is the ability of a system to resist intentionally malicious actions.
 
-[^9]: accurate description of the operation of a system
+[^9]: description of a system in a way that can be understood by humans
 
-[^10]: As more autonomy is added to a system and it becomes more reliable and robust, the situation awareness of human operators decreases and they are less likely to take over manual control.
+[^10]: accurate description of the operation of a system
 
-[^11]: Autonomy relates to the capacity for self-governance and decision-making free from coercion.
+[^11]: As more autonomy is added to a system and it becomes more reliable and robust, the situation awareness of human operators decreases and they are less likely to take over manual control.
+
+[^12]: Autonomy relates to the capacity for self-governance and decision-making free from coercion.
